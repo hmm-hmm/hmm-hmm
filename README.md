@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hmm-hmm
-- 👀 I’m interested in Electrical coding / programming
+- 👀 I’m interested in Electrical engineering / programming
 - 🌱 I’m currently learning html, css, js, and php
 - 💞️ I’m looking to collaborate on something when I hit 18(for work)
 - 📫 How to reach me at the moment easiest way is discord (hmm.hmm)
